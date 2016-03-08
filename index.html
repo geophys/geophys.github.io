@@ -1,48 +1,21 @@
----
-layout: index
-title: "强学力行、顺势而为"
----
-<h1 class="page-header">
-  <small>
-    {{ site.description }}
-  </small>
-</h1>
-<!-- Loop output paged posts -->
-{% for post in paginator.posts %}
-<h2>
-  <a href="{{ post.url }}">
-    {{ post.title }}
-  </a> 
-  <div class="post-date">
-	<span class="glyphicon glyphicon-time"></span>
-	{{ post.date | date:"%Y-%m-%d" }}
-  </div>
-</h2>
-<hr>
-{{ post.excerpt }}
-	<p> <a href="{{ post.url }}"><span >阅读全文 &raquo; </span></a></p>
-<hr>
-{% endfor %}
 
-<!-- Pager indicator -->
-<ul class="pager">
-  {% if paginator.previous_page %} {% if paginator.previous_page == 1 %}
-  <li class="previous">
-    <a href="/">
-      &larr; 上一页
-    </a>
-  </li>
-  {% else %}
-  <li class="previous">
-    <a href="/posts/page{{ paginator.previous_page }}">
-      &larr; 上一页
-    </a>
-  </li>
-  {% endif %} {% endif %} {% if paginator.next_page %}
-  <li class="next">
-    <a href="/posts/page{{ paginator.next_page }}">
-      下一页 &rarr;
-    </a>
-  </li>
-  {% endif %}
-</ul>
+
+    　　---
+    　　layout: default
+    　　title: 我的Blog
+    　　---
+
+    　　<h2>{{ page.title }}</h2>
+
+    　　<p>最新文章</p>
+
+    　　<ul>
+
+    　　　　{% for post in site.posts %}
+
+    　　　　　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+
+    　　　　{% endfor %}
+
+    　　</ul>
+
