@@ -14,7 +14,7 @@
 
 <style>
 .sec-new-things li{
-	font-size: .5em;
+	font-size: .6em;
 	line-height: 1;
 }
 .sec-new-things .roll{
