@@ -45,7 +45,7 @@
 			{% if site.meta.author.gravatar %}<img src="{{ site.meta.gravatar}}{{ site.meta.author.gravatar }}?s=48" />{% endif %}
 			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
 		</figure>
-		<p>Write something about yourself.</p>
+		<p>地球物理工作者，向高级工程师努力中，技术男，有妻有子</p>
 	</div>
 	
 	<div class="block block-license">
