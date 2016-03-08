@@ -20,7 +20,7 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2016 || Hosted By Github ||Theme By <a href="https://github.com/mytharcher/" target="_blank">闭门造轮子</a></p>
+		<p>&copy; Since 2016 || Hosted By <a href="https://github.com/" target="_blank">github</a>||Theme By <a href="https://github.com/mytharcher/" target="_blank">闭门造轮子</a></p>
 	</footer>
 </div>
 
