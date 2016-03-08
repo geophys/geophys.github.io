@@ -20,7 +20,7 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2016 Hosted By Github <a href="http://disqus.com/" target="_blank">Disqus</a></p>
+		<p>&copy; <font color="#F00>Since 2016 Hosted By Github</font> <a href="http://disqus.com/" target="_blank">Disqus</a></p>
 	</footer>
 </div>
 
