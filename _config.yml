@@ -9,8 +9,8 @@ desc: 一个地球物理工作者的IT技术博客
 
 custom:
     category:
-        default: Default Category
-        another: Another Category
+        default: Python学习
+        another: 地球物理心得
     categories:
       - name:  default
         title: Default Category
