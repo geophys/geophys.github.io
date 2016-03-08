@@ -20,7 +20,7 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; <font color="#F00>Since 2016 Hosted By Github</font> <a href="http://disqus.com/" target="_blank">Disqus</a></p>
+		<p>&copy; Since 2016 || Hosted By Github ||Theme By <a href="https://github.com/mytharcher/" target="_blank">闭门造轮子</a></p>
 	</footer>
 </div>
 
