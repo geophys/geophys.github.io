@@ -20,7 +20,7 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2012</p>
+		<p>&copy; Since 2016 Hosted By Github <a href="http://disqus.com/" target="_blank">Disqus</a></p>
 	</footer>
 </div>
 
