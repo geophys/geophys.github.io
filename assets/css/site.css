@@ -36,7 +36,7 @@ input,textarea{resize:none;}
 
 header{font-size:80%;}
 header h1 .minor{color:#999; font-weight:normal;}
-header .additional{font-size:90%; color:#ccc;}
+header .additional{font-size:90%; color:#000;}
 
 aside{background:#eee; font-size:75%;}
 aside h2{margin:1em 0;}
@@ -49,11 +49,11 @@ aside .block a{margin:0;}
 aside .block-about p{margin:0.5em 0; color:#999;}
 aside .block-about figure img{border-radius:2px;}
 aside .block-about figcaption{margin:0.2em 0;}
-aside .block-about figcaption:after{content:'<your-email@example.com>'; padding-left:.5em; color: #bbb; font-weight:bold; opacity: 0; transition:opacity .5s; -moz-transition:opacity .5s; -webkit-transition:opacity .5s;}
+aside .block-about figcaption:after{content:'<your-email@example.com>'; padding-left:.5em; color: #000; font-weight:bold; opacity: 0; transition:opacity .5s; -moz-transition:opacity .5s; -webkit-transition:opacity .5s;}
 aside .block-about:hover figcaption:after{opacity: 1;}
 aside .block-fork{position: absolute; top:0; right:0; margin: 0;}
 
-footer p{color:#aaa; font-size:75%; line-height:1.6em;}
+footer p{color:#380; font-size:75%; line-height:1.6em;}
 
 /* post page */
 .page-type-post article>h1:first-child{margin-bottom:0;}
