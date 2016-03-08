@@ -1,6 +1,6 @@
 ---
 layout: list
-title:  Python—ßœ∞± º«
+title:  Default category
 ---
 
 {% assign list = site.categories.default %}

@@ -13,10 +13,10 @@ custom:
         another: 地球物理心得
     categories:
       - name:  default
-        title: Python学习笔记
+        title: Default Category
 
       - name:  another
-        title: 地球物理心得
+        title: Another Category
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
