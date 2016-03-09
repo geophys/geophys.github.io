@@ -5,12 +5,12 @@ exclude:
 
 name: Geophys
 host: localhost
-desc: 一个地球物理工作者的IT技术博客
+desc: 地球物理工程师，IT技术爱好男，有妻有子
 
 custom:
     category:
-        default: Python学习笔记
-        another: 地球物理心得
+        default: Default Category
+        another: Another Category
     categories:
       - name:  default
         title: Default Category
@@ -22,8 +22,8 @@ custom:
 
 meta:
     author:
-        name: Geophys
-        email: Geophys at outlook.com
+        name: Your Name
+        email: your-email@example.com
         disqus: your-disqus-short-name              # Disqus缩略标识
         gcse: 000346898720731947188:13h55x32l0y     # Google自定义搜索标识ID
         github: your-github-account                 # GitHub账号

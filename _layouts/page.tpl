@@ -20,7 +20,7 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2016 || Hosted By <a href="https://github.com/" target="_blank">github</a>||Theme By <a href="https://github.com/mytharcher/" target="_blank">闭门造轮子</a></p>
+		<p>&copy; Since 2012</p>
 	</footer>
 </div>
 
@@ -45,7 +45,7 @@
 			{% if site.meta.author.gravatar %}<img src="{{ site.meta.gravatar}}{{ site.meta.author.gravatar }}?s=48" />{% endif %}
 			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
 		</figure>
-		<p>地球物理工作者，向高级工程师努力中，技术男，有妻有子</p>
+		<p>Write something about yourself.</p>
 	</div>
 	
 	<div class="block block-license">
