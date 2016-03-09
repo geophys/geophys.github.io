@@ -20,7 +20,7 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2016.Hosted By </p>
+		<p>&copy; Since 2012</p>
 	</footer>
 </div>
 
