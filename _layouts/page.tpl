@@ -20,7 +20,7 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2016.Hosted By <a href="https://github.com/" target="_blank">GitHu5b</a></p>
+		<p>&copy; Since 2016.Hosted By <a href="https://github.com/" target="_blank">GitHub</a>Theme By <a href="https://github.com/mytharcher/SimpleGray" target="_blank">造轮子工程师</a></p>
 	</footer>
 </div>
 
