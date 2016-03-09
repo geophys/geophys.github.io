@@ -8,15 +8,14 @@ host: localhost
 desc: 地球物理工程师 ，IT技术爱好者，有漂亮妻子可爱儿子,编程、数值计算、反演、地质解释，Python学习中
 
 custom:
-    category:
-        default: Python学习
-        another: 地球物理心得
+      default: Default Category
+        another: Another Category
     categories:
-      - name:  Python
-        title: Python学习
+      - name:  default
+        title: Default Category
 
-      - name:  geophysics
-        title: 地球物理心得
+      - name:  another
+        title: Another Category
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
