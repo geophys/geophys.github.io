@@ -20,7 +20,7 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2016</p>
+		<p>&copy; Since 2016.Hosted By Github</p>
 	</footer>
 </div>
 
