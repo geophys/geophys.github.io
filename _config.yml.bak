@@ -5,25 +5,33 @@ exclude:
 
 name: Geophys
 host: localhost
-desc: 地球物理工程师，IT技术爱好者，编程、数值计算、反演、地质解释，Python学习中，有漂亮妻子可爱儿子
+desc: 地球物理工程师，IT技术爱好者，Python学习中，有漂亮妻子可爱子
 
 custom:
     category:
-        default: Python学习
-        another: 地球物理心得
+        default: Default Category
+        another: Another Category
+        Python: Python
+        Geophysics: Geophysics
     categories:
-      - name:  Python
-        title: Python学习
+      - name:  default
+        title: Default Category
 
-      - name:  geophysics
-        title: 地球物理心得
+      - name:  another
+        title: Another Category
+        
+      - name:  Python
+        title: Python
+
+      - name:  Geophysics
+        title: Geophysics
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
 meta:
     author:
-        name: Geophys
-        email: geophysical@outlook.com
+        name: Your Name
+        email: your-email@example.com
         disqus: your-disqus-short-name              # Disqus缩略标识
         gcse: 000346898720731947188:13h55x32l0y     # Google自定义搜索标识ID
         github: your-github-account                 # GitHub账号

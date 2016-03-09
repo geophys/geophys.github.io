@@ -11,19 +11,27 @@ custom:
     category:
         default: Default Category
         another: Another Category
+        Python: Python
+        Geophysics: Geophysics
     categories:
       - name:  default
         title: Default Category
 
       - name:  another
         title: Another Category
+        
+      - name:  Python
+        title: Python
+
+      - name:  Geophysics
+        title: Geophysics
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
 meta:
     author:
-        name: Your Name
-        email: your-email@example.com
+        name: Geophys
+        email: geophysical@outlook.com
         disqus: your-disqus-short-name              # Disqus缩略标识
         gcse: 000346898720731947188:13h55x32l0y     # Google自定义搜索标识ID
         github: your-github-account                 # GitHub账号
