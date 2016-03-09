@@ -9,13 +9,13 @@ desc: 地球物理工程师，IT技术爱好男，有妻有子
 
 custom:
     category:
-        default: Python学习
-        another: 地球物理心得
+        default: python
+        another: geophysics
     categories:
-      - name:  default
-        title: Default Category
+      - name:  python
+        title: Python学习
 
-      - name:  Python学习
+      - name:  geophysics
         title: 地球物理心得
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
