@@ -10,12 +10,16 @@ desc: 地球物理工程师，IT技术爱好者，Python学习中，有漂亮妻
 custom:
     category:
         Python: Python
+        Git: Git
         Geophysics: Geophysics
     categories:
         
       - name:  Python
         title: Python
 
+      - name:  Git
+        title: Git
+        
       - name:  Geophysics
         title: Geophysics
 
