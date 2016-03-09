@@ -53,7 +53,7 @@ aside .block-about figcaption:after{content:'<geophysical@outlook.com>'; padding
 aside .block-about:hover figcaption:after{opacity: 1;}
 aside .block-fork{position: absolute; top:0; right:0; margin: 0;}
 
-footer p{color:#333; font-size:85%; line-height:1.6em;}
+footer p{color:#333; font-size:100%; line-height:1.6em;}
 
 /* post page */
 .page-type-post article>h1:first-child{margin-bottom:0;}
@@ -63,7 +63,7 @@ footer p{color:#333; font-size:85%; line-height:1.6em;}
 
 .trace{font-size:80%; color:#999;}
 
-article{margin:2em 0;font-size:90%;}
+article{margin:2em 0;font-size:100%;}
 article>h1:first-child{margin:0;}
 article h1,
 article h2,
