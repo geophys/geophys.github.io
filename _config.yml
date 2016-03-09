@@ -3,13 +3,13 @@ permalink: /posts/:title.html
 exclude:
   - README.md
 
-name: Geophys
+name: Your Name's Site
 host: localhost
-desc: 地球物理工程师，IT技术爱好男，有妻有子
+desc: Some description of your site.
 
 custom:
     category:
-        default: Python学习
+        default: Default Category
         another: Another Category
     categories:
       - name:  default
