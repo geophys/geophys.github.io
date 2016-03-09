@@ -9,16 +9,9 @@ desc: 地球物理工程师，IT技术爱好者，Python学习中，有漂亮妻
 
 custom:
     category:
-        default: Default Category
-        another: Another Category
         Python: Python
         Geophysics: Geophysics
     categories:
-      - name:  default
-        title: Default Category
-
-      - name:  another
-        title: Another Category
         
       - name:  Python
         title: Python
