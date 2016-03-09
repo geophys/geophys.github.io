@@ -40,11 +40,7 @@
 	</form>
 	
 	<div class="block block-about">
-		<h3>About</h3>
-		<figure>
-			{% if site.meta.author.gravatar %}<img src="{{ site.meta.gravatar}}{{ site.meta.author.gravatar }}?s=48" />{% endif %}
-			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
-		</figure>
+		<h3>关于Geophys:</h3>
 		<p>地球物理工程师,数据处理.</p>
 	</div>
 	
