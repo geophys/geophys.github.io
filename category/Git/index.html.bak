@@ -1,8 +1,0 @@
----
-layout: list
-title:  Git
----
-
-{% assign list = site.categories.Git %}
-{% assign preview = true %}
-{% include list.tpl %}

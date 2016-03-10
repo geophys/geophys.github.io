@@ -10,18 +10,18 @@ desc: 地球物理工程师，有漂亮妻子可爱儿子，IT技术爱好者，
 custom:
     category:
         Python: Python
-        Git: Git
         Geophysics: Geophysics
+        Discovery: 日积月累
     categories:
         
       - name:  Python
-        title: Python
+        title: Python笔记
 
-      - name:  Git
-        title: Git
-        
       - name:  Geophysics
-        title: Geophysics
+        title: Geophysics思考
+        
+      - name:  Discovery
+        title: 日积月累
 
     scrollingLoadCount: 6                          # 滚屏自动加载文章数量，“0”为关闭
 
