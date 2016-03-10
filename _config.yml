@@ -10,11 +10,10 @@ desc: 地球物理工程师，有漂亮妻子可爱儿子，IT技术爱好者，
 custom:
     category:
         Python:  Python笔记
-        Geophysics: 地球物理思考
-        Discovery: 日积月累
+        Geophysics:  地球物理思考
+        Discovery:  日积月累
         
     categories:
-        
       - name:  Python
         title: Python笔记
         
