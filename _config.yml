@@ -1,0 +1,35 @@
+safe: false
+permalink: /posts/:title.html
+exclude:
+  - README.md
+
+name: Geophys
+host: localhost
+desc: 地球物理工程师，有漂亮妻子可爱儿子，IT技术爱好者，C/C++/FORTRAN/MATLAB行云流水，Python学习中
+
+custom:
+    category:
+        Python:  Python笔记
+        Geophysics:  地球物理思考
+        Discovery:  日积月累
+        
+    categories:
+      - name:  Python
+        title: Python笔记
+        
+      - name:  Geophysics
+        title: 地球物理思考
+
+      - name:  Discovery
+        title: 日积月累
+        
+    scrollingLoadCount: 6                          # 滚屏自动加载文章数量，“0”为关闭
+
+meta:
+    author:
+        name: Geophys
+        email: geophysical@outlook.com
+        gcse: 000346898720731947188:13h55x32l0y     # Google自定义搜索标识ID
+        github: your-github-account                 # GitHub账号
+    gapi: http://www.google.com/jsapi               # Google API地址
+    gravatar: http://en.gravatar.com/avatar/        # Gravatar头像服务器地址
