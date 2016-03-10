@@ -15,15 +15,15 @@ custom:
     categories:
         
       - name:  Python
-        title: Python
+        title: Python笔记
 
       - name:  Git
-        title: Git
+        title: Git存档
         
       - name:  Geophysics
-        title: Geophysics
+        title: Geophysics思考
 
-    scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
+    scrollingLoadCount: 6                          # 滚屏自动加载文章数量，“0”为关闭
 
 meta:
     author:
