@@ -23,6 +23,9 @@ custom:
       - name:  Geophysics
         title: Geophysics思考
 
+      - name:  Discovery
+        title: 日积月累
+        
     scrollingLoadCount: 6                          # 滚屏自动加载文章数量，“0”为关闭
 
 meta:
