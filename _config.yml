@@ -31,10 +31,5 @@ meta:
         email: geophysical@outlook.com
         gcse: 000346898720731947188:13h55x32l0y     # Google自定义搜索标识ID
         github: your-github-account                 # GitHub账号
-<<<<<<< HEAD
-        gravatar: 1cd8c12591616d8c22aaa624f8c07834  # Gravatar头像标识
-
-=======
->>>>>>> f8314fdeef41e466223f69411e20aa040b8c0fed
     gapi: http://www.google.com/jsapi               # Google API地址
     gravatar: http://en.gravatar.com/avatar/        # Gravatar头像服务器地址
