@@ -1,8 +1,0 @@
-﻿---
-layout: list
-title:  日积月累
----
-
-{% assign list = site.categories.Discovery %}
-{% assign preview = true %}
-{% include list.tpl %}
